@@ -1,2 +1,5 @@
+BooksApp/__pycache__/
+BooksApp/migrations/__pycache__/
+Library/__pycache__/
 Users/__pycache__/
 Users/migrations/__pycache__/
